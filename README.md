@@ -1,6 +1,6 @@
 # Responsive Headphones Website
 
-### Responsive Headphones Website
+### link: https://ivandegtiarov.github.io/Responsive-JBL-Headphones-website/
 
 - Responsive Headphones Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
